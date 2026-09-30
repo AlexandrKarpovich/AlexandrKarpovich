@@ -8,7 +8,7 @@
 - 💼 Опыт: 6+ лет в веб-разработке
 - 🧰 Основной стек: PHP (Laravel), JavaScript/TypeScript, Vue.js, React
 - 🗄️ Работал с: MySQL, REST API, Docker, GitLab CI/CD, Nginx
-- 🌱 Изучаю: Go, Java (Spring Boot), Python
+- 🌱 Изучаю: Go, Java, Python
 - 🤖 Использую в работе ИИ-инструменты: Claude, Codex
 - 📫 Связаться: [Telegram](https://t.me/alex_karpysha) · alieksandr.karpovich@yandex.ru
 - 📄 Резюме: [hh.ru](https://hh.ru/resume/c89b2997ff08fd7ec10039ed1f50356c49594b)
