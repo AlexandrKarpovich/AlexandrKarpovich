@@ -6,7 +6,7 @@
 
 - 🔭 работа: full-stack / backend / frontend
 - 💼 Опыт: 6+ лет в веб-разработке
-- 🧰 Основной стек: PHP (Laravel), JavaScript/TypeScript, Vue.js, React
+- 🧰 Основной стек: PHP (Laravel), Node js, JavaScript/TypeScript, Vue.js, React
 - 🗄️ Работал с: MySQL, REST API, Docker, GitLab CI/CD, Nginx
 - 🌱 Изучаю: Go, Java, Python
 - 🤖 Использую в работе ИИ-инструменты: Claude, Codex
